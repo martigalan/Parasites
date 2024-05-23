@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ameba 2.0</folder>
+	<filename>00000979.jpg</filename>
+	<path>/Users/alexdiaz/Desktop/Ameba 2.0/00000979.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Amebae</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1565</xmin>
+			<ymin>1023</ymin>
+			<xmax>1838</xmax>
+			<ymax>1297</ymax>
+		</bndbox>
+	</object>
+</annotation>

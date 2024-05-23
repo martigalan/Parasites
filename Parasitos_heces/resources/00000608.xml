@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ascaris</folder>
+	<filename>00000608.jpg</filename>
+	<path>/Users/alexdiaz/Desktop/Ascaris/00000608.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ascaris lumbricoides</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1738</xmin>
+			<ymin>1253</ymin>
+			<xmax>2148</xmax>
+			<ymax>1767</ymax>
+		</bndbox>
+	</object>
+</annotation>

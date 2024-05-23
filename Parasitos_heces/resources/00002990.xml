@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hymenolepys</folder>
+	<filename>00002990.jpg</filename>
+	<path>/Users/alexdiaz/Desktop/Hymenolepys/00002990.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hymenolepsis nana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1312</xmin>
+			<ymin>1277</ymin>
+			<xmax>1795</xmax>
+			<ymax>1773</ymax>
+		</bndbox>
+	</object>
+</annotation>

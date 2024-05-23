@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GIARDIA copia</folder>
+	<filename>39.JPG</filename>
+	<path>/Users/alexdiaz/Desktop/MIO/L&#211;GIOS/AI/GIARDIA copia/39.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Giardia duodenalis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1515</xmin>
+			<ymin>833</ymin>
+			<xmax>1712</xmax>
+			<ymax>967</ymax>
+		</bndbox>
+	</object>
+</annotation>
